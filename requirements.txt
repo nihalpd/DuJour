@@ -7,7 +7,7 @@ idna==2.8
 mysqlclient==1.3.14
 oauthlib==1.0.3
 pbr==1.8.0
-Pillow==6.2.0
+Pillow==8.2.0
 python3-openid==3.0.7
 pytz==2015.7
 requests==2.21.0
